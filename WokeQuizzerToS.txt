@@ -1,0 +1,43 @@
+Terms of Service
+Last Updated: 10/22/2024
+
+Welcome to Woke Quizzer! This Terms of Service ("ToS") agreement governs your use of the Woke Quizzer chatbot (the "Chatbot"), which is provided through Discord API. By accessing or using the Chatbot, you agree to be bound by this ToS. If you do not agree to these terms, please do not use the Chatbot.
+
+1. Service Overview
+
+	The Woke Quizzer Chatbot is designed to ask topical political questions. The prompts or questions are to be answered by verified discord users with true or false answers. The scores are tallied and awarded to users who answer the questions.
+
+2. Acceptance of Terms
+
+By using the Chatbot, you affirm that:
+
+    You are at least 13 years old, or you meet the minimum age requirements as defined by Discord's Terms of Service.
+    You have read, understood, and agree to comply with this ToS.
+
+3. Use of the Chatbot
+
+    Prohibited Use: You must not:
+        Use the Chatbot in any unlawful manner or for any illegal purpose.
+        Misuse, manipulate, or exploit the Chatbot for any activities that could harm the app, other users, or the integrity of the service.
+        Use automated systems (such as bots or scripts) to interact with the Chatbot.
+
+4. Privacy and Data Collection
+
+    Data Usage: The Chatbot may collect and store user inputs for verification purposes. Any data collected through the Chatbot will be used solely for improving user experience, validating app functionality, or fulfilling security requirements.
+    Privacy: Your use of the Chatbot is subject to Woke Quizzer's Privacy Policy, which outlines how your data is collected, used, and stored. By using the Chatbot, you consent to this data collection and agree to the terms outlined in our Privacy Policy.
+
+5. Disclaimer
+
+    The Chatbot is provided "as is," and Woke Quizzer makes no warranties or guarantees regarding the reliability, accuracy, or availability of the Chatbot.
+    Woke Quizzer shall not be liable for any damages resulting from the use or inability to use the Chatbot, including but not limited to damages for errors or inaccuracies in the Chatbot's functionality, or for any unauthorized access to or disclosure of user data.
+
+6. Termination
+
+    We reserve the right to suspend or terminate your access to the Chatbot at any time without notice, especially in cases where you are found to be in violation of this ToS.
+
+7. Changes to the Terms
+
+We may update or revise this ToS from time to time. You will be notified of any significant changes, and your continued use of the Chatbot following these changes will indicate your acceptance of the updated terms.
+8. Contact Us
+
+If you have any questions or concerns about this ToS or the Chatbot, please contact us at byrdman#4584.
